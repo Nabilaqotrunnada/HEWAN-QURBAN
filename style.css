@@ -1,0 +1,22 @@
+body{
+	background: #F2F2F2;
+	font-family: sans-serif;
+}
+ 
+.kambing{
+	width: 180px;
+	height: 180px;
+	border: 0;
+}
+ 
+.kerbau{
+	width: 180px;
+	height: 180px;
+	border: 0;
+}
+
+.sapi{
+	width: 180px;
+	height: 180px;
+	border: 0;
+}
